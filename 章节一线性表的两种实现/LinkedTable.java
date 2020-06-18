@@ -75,7 +75,7 @@ public class LinkedTable<E> {
 		lk.addElement(4);
 		lk.addElement("g");
 		//lk.deleteElement(3);
-		System.out.println(lk.getElement(5));
+// 	System.out.println(lk.getElement(5));
 //		System.out.println(lk.size);
 //		
 //		System.out.println(lk.getElement(4));
